@@ -3,3 +3,5 @@
 ### Saturday Class
 ---
 ![elephant image](image/elephant.jpg)
+
+"Keep it pushing"
